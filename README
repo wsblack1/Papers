@@ -1,1 +1,32 @@
 These are some papers on various methods and/or subjects related to numerical methods and PDEs in general. A short list of some of the topics: finite volume, finite difference, artificial dissipation, entropy variables/techniques, energy conservation, ESWENO & WENO, efficient memory usage, etc.
+
+
+Subbareddy & Candler: A fully discrete, kinetic energy consistent finite-volume scheme for compressible flow
+  Journal of Computational Physics 228 (2009) 1347-1364
+
+Jameson: The Construction of Discretely Conservative Finite Volume Schemes that Also Globally Conserve Energy or Entropy
+  J Sci Comput (2008) 34: 152-187
+
+Jameson: Formulation of Kinetic Energy Preserving Conservative Schemes for Gas Dynamics and Direct Numerical Simulation of One-Dimensional Viscous Compressible Flow in a Shock Tube Using Entropy and Kinetic Energy Preserving Schemes
+  J Sci Comput (2008) 34: 188-208
+
+Colella: High-order, finite-volume methods in mapped coordinates
+  Journal of Computational Physics 230 (2011) 2952-2976
+
+Fisher: Boundary closures for fourth-order energy stable weighted essentially non-oscillatory finite-difference schemes
+  Journal of Computational Physics 230 (2011) 3727-3752
+
+Shu: Essentially Non-Oscillatory and Weighted Essentially Non-Oscillatory Schemes for Hyperbolic Conservation Laws
+  NASA/CR-97-206253 ICASE Report No. 97-65
+
+Mattson: Boundary Procedures for Summation-by-Parts Operators
+  Journal of Scientific Computing, VOl.18, No.1, February 2003
+
+Mattson: Summation by parts operators for finite difference approximations of second derivatives
+  Journal of Computational Physics 199 (2004) 503-540
+
+Ducros: High-Order Fluxes for Conservative Skew-Symmetric-like Schemes in Structured Meshes: Application to Compressible Flows
+  Journal of Computational Physics 161, 114-139 (2000)
+
+Carpenter: Fourth-order 2N-Storage Runge-Kutta Schemes
+  NASA TM-109112
